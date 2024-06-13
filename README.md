@@ -1,5 +1,6 @@
 # FastAPI
-How to run the code
+
+#How to run the code
 
 Create a DATABASE_URL variable in a .env file.
 This must be a Postgresql database URI.
